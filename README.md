@@ -1,4 +1,4 @@
-# DESAFIO DE PROJETO - MÓDULO 3
+# DESAFIO DE PROJETO 2 - MÓDULO 3
 Após a criação da instância no Azure, criação do banco de dados e integração ao Power BI, foi realizada a transformação dos dados:
 
 - Alterado o nome dos cabeçalhos e colocado o valor salarial em decimal fixo;
